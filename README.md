@@ -1,29 +1,14 @@
-# 👋 Bem-vindo ao meu Perfil!
+# Olá, eu sou o Gustavo 👋
 
-Olá! Sou um entusiasta de tecnologia com um grande interesse por design, HTML, CSS, e estou estudando intensamente para aprender várias linguagens de programação. Atualmente, estou cursando **TI no Instituto Senac** e meu objetivo é me tornar um especialista em Ads.
+## Minhas Estatísticas no GitHub
 
-## 🎨 Sobre Mim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 
-- 💻 **Design e Desenvolvimento Web**: Apaixonado por criar interfaces atraentes e funcionais.
-- 🌐 **HTML & CSS**: Construindo as bases sólidas para criar sites incríveis.
-- 📚 **Estudante Dedicado**: Explorando e aprendendo novas linguagens de programação.
-- 📈 **Futuro Especialista em Ads**: Aspirando a trabalhar com anúncios, combinando criatividade e estratégia.
+## Linguagens Mais Usadas
 
-## 🚀 Linguagens que Pratico
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Conecte-se comigo
 
-## 🎯 Objetivos
-
-- 📊 Aprender a criar campanhas de anúncios eficazes.
-- 🎨 Tornar-me um especialista em design e marketing digital.
-- 💡 Desenvolver habilidades que unam tecnologia e criatividade.
-
-
-## 💬 Vamos Conversar!
-
-Adoraria trocar ideias sobre design, desenvolvimento web, e marketing digital. Vamos construir algo incrível juntos!
-
----
-
-_"A tecnologia é uma ferramenta poderosa quando combinada com criatividade e propósito."_
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [Portfólio](https://seu-portfolio.com)
